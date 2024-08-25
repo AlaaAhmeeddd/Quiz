@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Quiz</title>
+</head>
+<body>
+    <div class="category">
+        <h2>Choose the kind of questions</h2>
+        <div class="buttons">
+            <button class="html-button">HTML</button>
+            <button class="css-button">CSS</button>
+            <button class="js-button">JS</button>
+        </div>
+    </div>
+    <div id="content">
+        <div class="head">
+            <p class="kind">Category: <span></span></p>
+            <p class="count">Questions Count: <span></span></p>
+        </div>
+        <div class="container">
+            <div class="quiz-body">
+                <h2 class="question"></h2>
+                <div class="solutions">
+                    <div class="answer">
+                        <input type="radio" id="num-one" name="question">
+                        <label for="num-one" class="num-one"></label>
+                    </div>
+                    <div class="answer">
+                        <input type="radio" id="num-two" name="question">
+                        <label for="num-two" class="num-two"></label>
+                    </div>
+                    <div class="answer">
+                        <input type="radio" id="num-three" name="question">
+                        <label for="num-three" class="num-three"></label>
+                    </div>
+                    <div class="answer">
+                        <input type="radio" id="num-four" name="question">
+                        <label for="num-four" class="num-four"></label>
+                    </div>
+                </div>
+            </div>
+            <div class="submit">
+                <button>Submit Answer</button>
+            </div>
+            <div class="bullets">
+                <div class="spans"></div>
+                <div class="countdown"></div>
+            </div>
+        </div>
+        <div class="result">
+            <p>Total right answer is: <span></span></p>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>

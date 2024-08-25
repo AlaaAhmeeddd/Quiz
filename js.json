@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Which of the following keywords is used to define a variable in Javascript?",
+        "answer_1": "Var",
+        "answer_2": "Let",
+        "answer_3": "Both of them",
+        "answer_4": "None of the above",
+        "right_answer": "Both of them"
+    },
+    {
+        "title": "Is &lt;img&gt; Element Has Attribute href",
+        "answer_1": "Yes",
+        "answer_2": "No Its For Anchor Tag <a>",
+        "answer_3": "All Elements Has This Attribute",
+        "answer_4": "Answer 1 And 3 Is Right",
+        "right_answer": "No Its For Anchor Tag <a>"
+    },
+    {
+        "title": " Which of the following is not javascript data types?",
+        "answer_1": "Null type",
+        "answer_2": "Undefined type",
+        "answer_3": "Number type",
+        "answer_4": "All of the mentionedt",
+        "right_answer": "All of the mentioned"
+    },
+    {
+        "title": "Which of the following methods/operation does javascript use instead of == and !=?",
+        "answer_1": "JavaScript uses equalto()",
+        "answer_2": "JavaScript uses equals() and notequals() instead",
+        "answer_3": "JavaScript uses bitwise checking",
+        "answer_4": "JavaScript uses === and !== instead",
+        "right_answer": "JavaScript uses === and !== instead"
+    },
+    {
+        "title": "What is JavaScript?",
+        "answer_1": "JavaScript is a scripting language used to make the website interactive",
+        "answer_2": "JavaScript is an assembly language used to make the website interactive",
+        "answer_3": "JavaScript is a compiled language used to make the website interactive",
+        "answer_4": "None of the mentioned",
+        "right_answer": "JavaScript is a scripting language used to make the website interactive"
+    },
+    {
+        "title": "Which of the following is correct about JavaScript?",
+        "answer_1": "JavaScript is an Object-Based language",
+        "answer_2": "JavaScript is Assembly-language",
+        "answer_3": "JavaScript is an Object-Oriented language",
+        "answer_4": "JavaScript is a High-level language",
+        "right_answer": "JavaScript is an Object-Based language"
+    },
+    {
+        "title": "Arrays in JavaScript are defined by which of the following statements?",
+        "answer_1": "It is an ordered list of values",
+        "answer_2": "It is an ordered list of objects",
+        "answer_3": "It is an ordered list of string",
+        "answer_4": "It is an ordered list of functions",
+        "right_answer": "It is an ordered list of values"
+    },
+    {
+        "title": "Which of the following is not a primitive data type in JavaScript?",
+        "answer_1": "Number",
+        "answer_2": "String",
+        "answer_3": "Boolean",
+        "answer_4": "Object",
+        "right_answer": "Object"
+    },
+    {
+        "title": "What does the “NaN” value represent in JavaScript?",
+        "answer_1": "Not a number",
+        "answer_2": "Null value",
+        "answer_3": "Undefined value",
+        "answer_4": "Boolean value",
+        "right_answer": "Not a number"
+    }
+]
